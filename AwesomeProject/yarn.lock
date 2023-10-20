@@ -1106,18 +1106,23 @@
   resolved "https://registry.yarnpkg.com/@react-native-community/eslint-plugin/-/eslint-plugin-1.1.0.tgz#e42b1bef12d2415411519fd528e64b593b1363dc"
   integrity sha512-W/J0fNYVO01tioHjvYWQ9m6RgndVtbElzYozBq1ZPrHO/iCzlqoySHl4gO/fpCl9QEFjvJfjPgtPMTMlsoq5DQ==
 
-"@react-native-firebase/app@^10.3.0":
-  version "10.3.0"
-  resolved "https://registry.yarnpkg.com/@react-native-firebase/app/-/app-10.3.0.tgz#53bb8125d486d3c7b841c3e6e45316668e4837f1"
-  integrity sha512-4/45zCJm3YLD5YlgTlF2ZDEd3CM6pjCZtx3OYI0hxsdq2//UdeZTgg6Byu3vxk7GTf3jY/E+IBoX8hPDcFU2/Q==
+"@react-native-firebase/analytics@^10.4.0":
+  version "10.8.1"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/analytics/-/analytics-10.8.1.tgz#293c3e483fbb77a181803e9b5a766c87e0d466d8"
+  integrity sha512-6fw3TwV7PbdelLND0yBqrnneHxGzqaXtCMLUYaklO55iCBi8dzX2eT3ouyI3IvtS/qYrF7ruEpvMeM4gUVcdqw==
+
+"@react-native-firebase/app@^10.4.0":
+  version "10.8.1"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/app/-/app-10.8.1.tgz#3455f491a5fc3d91677fd69e70b006a68fb7ca5c"
+  integrity sha512-EHbFGCbRdZMxSbdq5YCc47E9C+ckzsMeZdknJbSddTYJ9JxPDiorUyoHFOUCAHS2ZoklhpdlrU5zGNzxpBgDUw==
   dependencies:
     opencollective-postinstall "^2.0.1"
     superstruct "^0.6.2"
 
-"@react-native-firebase/dynamic-links@^10.3.1":
-  version "10.3.1"
-  resolved "https://registry.yarnpkg.com/@react-native-firebase/dynamic-links/-/dynamic-links-10.3.1.tgz#f86c9d983554458a71497510814b10b38d988851"
-  integrity sha512-l65Scu74RtpevVDBnHs+cL/7PJfB3twN5Qy85YGZTSyQmhAoAVUB4hi2d5mO+v78xvwU/bwM/q9L1A8jFllpsw==
+"@react-native-firebase/dynamic-links@^10.4.0":
+  version "10.8.1"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/dynamic-links/-/dynamic-links-10.8.1.tgz#cee7142f59da314c69787e751d70ab724acba6a5"
+  integrity sha512-9kIXYqJeVYKaquTeOiqw6OzKs630KBWUAtw1LC27XDYAuwQdVD/+92x9Ka0qV3vvIEH4YdXb2B2TC4yUb1wBVQ==
 
 "@sinonjs/commons@^1.7.0":
   version "1.8.1"
@@ -5560,9 +5565,9 @@ range-parser@~1.2.1:
   integrity sha512-Hrgsx+orqoygnmhFbKaHE6c296J+HTAQXoxEF6gNupROmmGJRoyzfG3ccAveqCBrwr/2yxQ5BVd/GTl5agOwSg==
 
 react-devtools-core@^4.6.0:
-  version "4.10.1"
-  resolved "https://registry.yarnpkg.com/react-devtools-core/-/react-devtools-core-4.10.1.tgz#6d57db291aeac9cc45ef9fb4636dd2ab97490daf"
-  integrity sha512-sXbBjGAWcf9HAblTP/zMtFhGHqxAfIR+GPxONZsSGN9FHnF4635dx1s2LdQWG9rJ+Ehr3nWg+BUAB6P78my5PA==
+  version "4.28.4"
+  resolved "https://registry.yarnpkg.com/react-devtools-core/-/react-devtools-core-4.28.4.tgz#fb8183eada77093f4c2f9830e664bf22255abe27"
+  integrity sha512-IUZKLv3CimeM07G3vX4H4loxVpByrzq3HvfTX7v9migalwvLs9ZY5D3S3pKR33U+GguYfBBdMMZyToFhsSE/iQ==
   dependencies:
     shell-quote "^1.6.1"
     ws "^7"
